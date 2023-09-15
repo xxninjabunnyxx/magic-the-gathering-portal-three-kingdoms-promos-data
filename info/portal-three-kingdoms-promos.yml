@@ -1,0 +1,16 @@
+---
+object: set
+id: 27b4f670-a760-4783-9f5a-4986c3a50e86
+code: pptk
+name: 'Portal: Three Kingdoms Promos'
+uri: https://api.scryfall.com/sets/27b4f670-a760-4783-9f5a-4986c3a50e86
+scryfall_uri: https://scryfall.com/sets/pptk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apptk&unique=prints
+released_at: '1999-05-01'
+set_type: promo
+card_count: 2
+parent_set_code: ptk
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ptk.svg?1694404800

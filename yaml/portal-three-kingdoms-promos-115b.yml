@@ -1,0 +1,113 @@
+---
+object: card
+id: 35e56360-6104-48f3-a54d-ad2d4fab900e
+oracle_id: ff959f1f-0982-4761-a6b0-3044dff1d617
+multiverse_ids: []
+tcgplayer_id: 38389
+cardmarket_id: 17702
+name: Lu Bu, Master-at-Arms
+lang: en
+released_at: '1999-07-04'
+uri: https://api.scryfall.com/cards/35e56360-6104-48f3-a54d-ad2d4fab900e
+scryfall_uri: https://scryfall.com/card/pptk/115b/lu-bu-master-at-arms?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/5/35e56360-6104-48f3-a54d-ad2d4fab900e.jpg?1619973082
+  normal: https://cards.scryfall.io/normal/front/3/5/35e56360-6104-48f3-a54d-ad2d4fab900e.jpg?1619973082
+  large: https://cards.scryfall.io/large/front/3/5/35e56360-6104-48f3-a54d-ad2d4fab900e.jpg?1619973082
+  png: https://cards.scryfall.io/png/front/3/5/35e56360-6104-48f3-a54d-ad2d4fab900e.png?1619973082
+  art_crop: https://cards.scryfall.io/art_crop/front/3/5/35e56360-6104-48f3-a54d-ad2d4fab900e.jpg?1619973082
+  border_crop: https://cards.scryfall.io/border_crop/front/3/5/35e56360-6104-48f3-a54d-ad2d4fab900e.jpg?1619973082
+mana_cost: "{5}{R}"
+cmc: 6.0
+type_line: Legendary Creature — Human Soldier Warrior
+oracle_text: Haste; horsemanship (This creature can't be blocked except by creatures
+  with horsemanship.)
+power: '4'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Haste
+- Horsemanship
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 27b4f670-a760-4783-9f5a-4986c3a50e86
+set: pptk
+set_name: 'Portal: Three Kingdoms Promos'
+set_type: promo
+set_uri: https://api.scryfall.com/sets/27b4f670-a760-4783-9f5a-4986c3a50e86
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apptk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pptk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/35e56360-6104-48f3-a54d-ad2d4fab900e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff959f1f-0982-4761-a6b0-3044dff1d617&unique=prints
+collector_number: 115b
+digital: false
+rarity: rare
+flavor_text: '"Dong Zhuo''s man, Lu Bu, warrior without peer, / Far surpassed the
+  champions of his sphere."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Gao Jianzhang
+artist_ids:
+- b4438bb0-939d-4842-a012-ad3dd5729082
+illustration_id: 7dcbee8a-c0ba-44ee-9d11-60c40c7ffbac
+border_color: white
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- datestamped
+- prerelease
+edhrec_rank: 20093
+prices:
+  usd: '118.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '61.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lu+Bu%2C+Master-at-Arms&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lu+Bu%2C+Master-at-Arms&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lu+Bu%2C+Master-at-Arms
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38389?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lu+Bu%2C+Master-at-Arms&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lu+Bu%2C+Master-at-Arms&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
